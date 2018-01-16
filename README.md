@@ -9,11 +9,11 @@ pelo mesmo (necropsia, exames periciais e laboratoriais), o diagnóstico de cada
 exames realizados e informações referentes aos departamentos do mesmo (Necrotério, Clínica
 Médico-Legal e Divisão de Laboratórios).
 
-Alunos: 
-■ Carlos Eduardo Barros Leal Pessoa de Mello (ceblpm)
-■ Jonatas de Oliveira Clementino (joc) - https://github.com/JonatasDeOliveira
-■ Lucas Alves Rufino (lar) - https://github.com/Lucas-Rufino
-■ Miriane da Silva Trajano Nascimento (mstn)
-■ Rodrigo de Lima Oliveira (rlo) - https://github.com/rllima
-■ Ullayne Fernandes Farias de Lima (uffl) - https://github.com/ullayne02
-■ Valdemiro Rosa Vieira Santos (vrvs) - https://github.com/vrvs
+Alunos: <br />
+■ Carlos Eduardo Barros Leal Pessoa de Mello (ceblpm) <br />
+■ Jonatas de Oliveira Clementino (joc) - https://github.com/JonatasDeOliveira <br />
+■ Lucas Alves Rufino (lar) - https://github.com/Lucas-Rufino <br />
+■ Miriane da Silva Trajano Nascimento (mstn) <br />
+■ Rodrigo de Lima Oliveira (rlo) - https://github.com/rllima <br />
+■ Ullayne Fernandes Farias de Lima (uffl) - https://github.com/ullayne02 <br />
+■ Valdemiro Rosa Vieira Santos (vrvs) - https://github.com/vrvs <br />
